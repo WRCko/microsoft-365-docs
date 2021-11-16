@@ -74,8 +74,8 @@ Microsoft Defender for Endpoint provides detailed reporting into events and bloc
 Here is an example query for advanced hunting:
 
 ```kusto
-DeviceNetworkEvents
-|where ActionType in ('ExploitGuardNetworkProtectionAudited','ExploitGuardNetworkProtectionBlocked', 'ConnectionSuccess')
+DeviceEvents
+| where ActionType in ('ExploitGuardNetworkProtectionAudited','ExploitGuardNetworkProtectionBlocked')
 ```
 
 ## Review network protection events in Windows Event Viewer
