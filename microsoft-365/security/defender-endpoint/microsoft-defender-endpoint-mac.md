@@ -85,13 +85,15 @@ After you've enabled the service, you may need to configure your network or fire
 
 Microsoft Defender for Endpoint on Mac requires one of the following Microsoft Volume Licensing offers:
 
+- Microsoft 365 E3 (M365 E3)
 - Microsoft 365 E5 (M365 E5)
 - Microsoft 365 E5 Security
 - Microsoft 365 A5 (M365 A5)
 - Windows 10 Enterprise E5
 - Microsoft 365 Business Premium
 - Windows 11 Enterprise E5
-- Microsoft Defender for Endpoint
+- Microsoft Defender for Endpoint P1
+- Microsoft Defender for Endpoint P2
 
 > [!NOTE]
 > Eligible licensed users may use Microsoft Defender for Endpoint on up to five concurrent devices.
